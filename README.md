@@ -79,13 +79,19 @@ If you're not inclined to make PRs, you can tweet me at `@infoslack`
 
 - https://www.youtube.com/watch?v=qc33qMUvR7c - Introduction to Apache Kafka by Joe Stein
 - https://www.youtube.com/watch?v=9RMOc0SwRro - Apache Kafka and the Next 700 Stream Processing Systems by Jay Kreps
-- http://www.ustream.tv/recorded/61479591 - Martin Kleppmann (Linkedin) - Using Logs To Build a Solid Data Infrastructure
+- https://martin.kleppmann.com/2015/05/27/logs-for-data-infrastructure.html - Transcript of Martin Kleppmann (Linkedin) - Using Logs To Build a Solid Data Infrastructure
 - https://www.youtube.com/watch?v=aJuo_bLSW6s - I ♥ Logs: Apache Kafka and Real-Time Data Integration
 - https://www.youtube.com/watch?v=InAKDEk7H0M - Apache Kafka: Real-time Streaming and Data Pipelines with Apache Kafka by Joe Stein
 - https://vimeo.com/63040812 - AJUG - Apache Kafka - Chris Curtin
 - https://www.youtube.com/playlist?list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON - Getting started guide on Apache Kafka by Learning Journal
 
 ## Tools
+- [Firehose](https://github.com/odpf/firehose) - Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.
+- [Dagger](https://github.com/odpf/dagger) - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful processing of Kafka data.
+- [Raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
+- [Stencil](https://github.com/odpf/stencil) - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
+- [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
+- [Logit.io](https://logit.io/sources/configure/kafka) - Logit.io allows you to send logs and metrics from Kafka for centralised monitoring, alerting and analysis.
 
 - https://github.com/Microsoft/Availability-Monitor-for-Kafka
 - https://github.com/linkedin/Burrow
